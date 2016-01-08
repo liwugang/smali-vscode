@@ -1,0 +1,30 @@
+{
+	"name": "smali",
+	"displayName": "smali",
+	"description": "Android Smali Language",
+	"version": "0.0.1",
+	"publisher": "W-WTerDan",
+	"engines": {
+		"vscode": "0.10.1"
+	},
+	"categories": [
+		"Languages"
+	],
+	"contributes": {
+		"languages": [{
+			"id": "smali",
+			"aliases": ["Android Smali Language", "smali"],
+			"extensions": [".smali"],
+			"configuration": "./smali.configuration.json"
+		}],
+		"grammars": [{
+			"language": "smali",
+			"scopeName": "source.smali",
+			"path": "./syntaxes/smali.tmLanguage"
+		}]
+	},
+	"repository": {
+		"url": "https://github.com/W-WTerDan/smali-vscode ",
+		"type": "git"
+	}
+}
