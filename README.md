@@ -1,13 +1,10 @@
-# README
-## This is the README for your extension "smali" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# Android Smali for VS Code
+## About
+This is a VS code bundle language support for Android Smali.
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+##Source code
+The latest version of this bundle should be available on [GitHub](https://github.com/W-WTerDan/smali-vscode).
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+
 
 ** Enjoy!**
